@@ -23,4 +23,3 @@
 - ← : di chuyển sang trái
 - ↓ : di chuyển xuống dưới
 - → : di chuyển sang phải
-- ESC : thoát 
