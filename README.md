@@ -5,6 +5,7 @@
     2048
   </h1>
   <img src="GameProject\\Image\\Menu .png"/>
+  <img src="GameProject\\Image\\Game.png"/>
 </div>
 
 ---
