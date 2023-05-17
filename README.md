@@ -4,7 +4,7 @@
   <h1>
     2048
   </h1>
-  <img src="GameProject\\Image\\Menu6.png"/>
+  <img src="https://ibb.co/WcxJ1SH"/>
 </div>
 ---
 
@@ -30,8 +30,4 @@
 - ↓ : di chuyển xuống dưới
 - → : di chuyển sang phải
 
----
-
-
-#  SCREENSHOT :
 
