@@ -4,8 +4,9 @@
   <h1>
     2048
   </h1>
-  <img src="GameProject\\Image\\Menu.png"/>
+  <img src="GameProject\\Image\\Menu .png"/>
 </div>
+
 ---
 
 #  TỔNG QUAN:
