@@ -1,5 +1,11 @@
 # 2048
 
+<div align="center">
+  <h1>
+    2048
+  </h1>
+  <img src="GameProject\\Image\\Menu6.png"/>
+</div>
 ---
 
 #  TỔNG QUAN:
@@ -10,7 +16,7 @@
 
 
 ---
----
+
 
 #  LUẬT CHƠI :
 - Người chơi di chuyển (lên, xuống, trái, phải). Sau mỗi lần di chuyển, các ô vuông sẽ dồn về hướng di chuyển (2 ô sẽ hợp lại nếu gần nhau và có cùng số điểm).
@@ -23,3 +29,9 @@
 - ← : di chuyển sang trái
 - ↓ : di chuyển xuống dưới
 - → : di chuyển sang phải
+
+---
+
+
+#  SCREENSHOT :
+
